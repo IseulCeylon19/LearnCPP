@@ -1,6 +1,7 @@
 #include <iostream>
 #include <bitset>
 // using C++14, right now we cannot use std::format or std::print (run 0.13-PrintStandard for more information)
+//May try running by passing -std=c++20 or -std=c++23 to the compiler
 // #include <format> // C++20
 // #include <print> // C++23
 
