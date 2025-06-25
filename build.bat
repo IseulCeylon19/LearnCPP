@@ -18,7 +18,8 @@ mkdir build
 cd build
 
 REM https://www.learncpp.com/cpp-tutorial/configuring-your-compiler-build-configurations/
-g++ -Werror -Wall -Weffc++ -Wextra -Wconversion -Wsign-conversion -pedantic-errors -fanalyzer -ggdb -DDEBUG -o main ../%~1/main.cpp
+REM g++ -Werror -Wall -Weffc++ -Wextra -Wconversion -Wsign-conversion -pedantic-errors -fanalyzer -ggdb -DDEBUG -o main ../%~1/main.cpp
+g++ -Werror -Wall -Weffc++ -Wextra -Wconversion -Wsign-conversion -pedantic-errors -fanalyzer -ggdb -DDEBUG -std=c++17 -o main ../%~1/main.cpp
 
 REM for release build, uncomment the next line
 REM g++ -Werror -Wall -Weffc++ -Wextra -Wconversion -Wsign-conversion -pedantic-errors -std=c++17 -O2 -DNDEBUG -o main ../%~1/main.cpp
