@@ -16,3 +16,6 @@ https://www.learncpp.com/cpp-tutorial/introduction-to-scientific-notation/
 4.11 — Chars
 https://www.learncpp.com/cpp-tutorial/chars/
 
+5.2 — Literals
+https://www.learncpp.com/cpp-tutorial/literals/
+
