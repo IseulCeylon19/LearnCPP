@@ -19,3 +19,7 @@ https://www.learncpp.com/cpp-tutorial/chars/
 5.2 — Literals
 https://www.learncpp.com/cpp-tutorial/literals/
 
+5.4 — The as-if rule and compile-time optimization
+https://www.learncpp.com/cpp-tutorial/the-as-if-rule-and-compile-time-optimization/
+
+
