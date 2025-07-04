@@ -22,4 +22,8 @@ https://www.learncpp.com/cpp-tutorial/literals/
 5.4 — The as-if rule and compile-time optimization
 https://www.learncpp.com/cpp-tutorial/the-as-if-rule-and-compile-time-optimization/
 
+5.7 — Introduction to std::string
+https://www.learncpp.com/cpp-tutorial/introduction-to-stdstring/
+
+
 
