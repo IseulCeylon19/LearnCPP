@@ -28,5 +28,8 @@ https://www.learncpp.com/cpp-tutorial/introduction-to-stdstring/
 5.9 — std::string_view (part 2)
 https://www.learncpp.com/cpp-tutorial/stdstring_view-part-2/
 
+6.1 — Operator precedence and associativity
+https://www.learncpp.com/cpp-tutorial/operator-precedence-and-associativity/
+
 
 
