@@ -31,5 +31,8 @@ https://www.learncpp.com/cpp-tutorial/stdstring_view-part-2/
 6.1 — Operator precedence and associativity
 https://www.learncpp.com/cpp-tutorial/operator-precedence-and-associativity/
 
+6.8 — Logical operators
+https://www.learncpp.com/cpp-tutorial/logical-operators/
+
 
 
