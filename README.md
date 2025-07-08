@@ -34,5 +34,8 @@ https://www.learncpp.com/cpp-tutorial/operator-precedence-and-associativity/
 6.8 — Logical operators
 https://www.learncpp.com/cpp-tutorial/logical-operators/
 
+O.1 — Bit flags and bit manipulation via std::bitset
+https://www.learncpp.com/cpp-tutorial/bit-flags-and-bit-manipulation-via-stdbitset/
+
 
 
