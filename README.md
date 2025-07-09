@@ -37,5 +37,7 @@ https://www.learncpp.com/cpp-tutorial/logical-operators/
 O.1 — Bit flags and bit manipulation via std::bitset
 https://www.learncpp.com/cpp-tutorial/bit-flags-and-bit-manipulation-via-stdbitset/
 
+O.3 — Bit manipulation with bitwise operators and bit masks
+https://www.learncpp.com/cpp-tutorial/bit-manipulation-with-bitwise-operators-and-bit-masks/
 
 
