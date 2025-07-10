@@ -40,4 +40,7 @@ https://www.learncpp.com/cpp-tutorial/bit-flags-and-bit-manipulation-via-stdbits
 O.3 — Bit manipulation with bitwise operators and bit masks
 https://www.learncpp.com/cpp-tutorial/bit-manipulation-with-bitwise-operators-and-bit-masks/
 
+O.4 — Converting integers between binary and decimal representation
+https://www.learncpp.com/cpp-tutorial/converting-integers-between-binary-and-decimal-representation/
+
 
