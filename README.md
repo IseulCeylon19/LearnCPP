@@ -43,4 +43,5 @@ https://www.learncpp.com/cpp-tutorial/bit-manipulation-with-bitwise-operators-an
 O.4 — Converting integers between binary and decimal representation
 https://www.learncpp.com/cpp-tutorial/converting-integers-between-binary-and-decimal-representation/
 
-
+7.1 — Compound statements (blocks)
+https://www.learncpp.com/cpp-tutorial/compound-statements-blocks/
