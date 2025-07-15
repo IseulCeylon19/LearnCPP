@@ -45,3 +45,8 @@ https://www.learncpp.com/cpp-tutorial/converting-integers-between-binary-and-dec
 
 7.1 — Compound statements (blocks)
 https://www.learncpp.com/cpp-tutorial/compound-statements-blocks/
+
+7.5 — Variable shadowing (name hiding)
+https://www.learncpp.com/cpp-tutorial/variable-shadowing-name-hiding
+
+
