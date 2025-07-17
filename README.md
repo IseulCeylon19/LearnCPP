@@ -1,2 +1,3 @@
 ## Learning CPP
-Following  https://www.learncpp.com/
+
+This repo is for Note and Practice while learning C++ from https://www.learncpp.com/
