@@ -48,4 +48,7 @@ https://www.learncpp.com/cpp-tutorial/compound-statements-blocks/
 7.5 — Variable shadowing (name hiding)
 https://www.learncpp.com/cpp-tutorial/variable-shadowing-name-hiding
 
+7.6 — Internal linkage
+https://www.learncpp.com/cpp-tutorial/internal-linkage
+
 
