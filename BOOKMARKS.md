@@ -54,4 +54,7 @@ https://www.learncpp.com/cpp-tutorial/internal-linkage
 Static storage duration
 https://en.cppreference.com/w/c/language/static_storage_duration.html
 
+Static Initialization Order Fiasco
+https://en.cppreference.com/w/cpp/language/siof.html
+
 
