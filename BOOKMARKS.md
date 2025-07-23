@@ -57,4 +57,7 @@ https://en.cppreference.com/w/c/language/static_storage_duration.html
 Static Initialization Order Fiasco
 https://en.cppreference.com/w/cpp/language/siof.html
 
+7.7 — External linkage and variable forward declarations
+https://www.learncpp.com/cpp-tutorial/external-linkage-and-variable-forward-declarations/
+
 
