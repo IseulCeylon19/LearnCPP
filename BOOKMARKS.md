@@ -60,4 +60,6 @@ https://en.cppreference.com/w/cpp/language/siof.html
 7.7 — External linkage and variable forward declarations
 https://www.learncpp.com/cpp-tutorial/external-linkage-and-variable-forward-declarations/
 
+7.8 — Why (non-const) global variables are evil
+https://www.learncpp.com/cpp-tutorial/why-non-const-global-variables-are-evil/
 
