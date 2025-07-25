@@ -63,3 +63,8 @@ https://www.learncpp.com/cpp-tutorial/external-linkage-and-variable-forward-decl
 7.8 — Why (non-const) global variables are evil
 https://www.learncpp.com/cpp-tutorial/why-non-const-global-variables-are-evil/
 
+7.9 — Inline functions and variables
+https://www.learncpp.com/cpp-tutorial/inline-functions-and-variables/
+
+
+
