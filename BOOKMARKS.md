@@ -66,5 +66,8 @@ https://www.learncpp.com/cpp-tutorial/why-non-const-global-variables-are-evil/
 7.9 — Inline functions and variables
 https://www.learncpp.com/cpp-tutorial/inline-functions-and-variables/
 
+7.10 — Sharing global constants across multiple files (using inline variables)
+https://www.learncpp.com/cpp-tutorial/sharing-global-constants-across-multiple-files-using-inline-variables
+
 
 
