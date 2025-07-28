@@ -69,5 +69,11 @@ https://www.learncpp.com/cpp-tutorial/inline-functions-and-variables/
 7.10 — Sharing global constants across multiple files (using inline variables)
 https://www.learncpp.com/cpp-tutorial/sharing-global-constants-across-multiple-files-using-inline-variables
 
+7.11 — Static local variables
+https://www.learncpp.com/cpp-tutorial/static-local-variables
+
+
+
+
 
 
