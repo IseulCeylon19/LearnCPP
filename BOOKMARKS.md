@@ -72,6 +72,10 @@ https://www.learncpp.com/cpp-tutorial/sharing-global-constants-across-multiple-f
 7.11 — Static local variables
 https://www.learncpp.com/cpp-tutorial/static-local-variables
 
+7.12 — Scope, duration, and linkage summary
+https://www.learncpp.com/cpp-tutorial/scope-duration-and-linkage-summary
+
+
 
 
 
