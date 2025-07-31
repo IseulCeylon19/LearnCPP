@@ -78,6 +78,9 @@ https://www.learncpp.com/cpp-tutorial/scope-duration-and-linkage-summary
 7.13 — Using declarations and using directives
 https://www.learncpp.com/cpp-tutorial/using-declarations-and-using-directives/
 
+How do C++ using-directives work?
+https://quuxplusone.github.io/blog/2020/12/21/using-directive/
+
 
 
 
