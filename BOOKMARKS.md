@@ -84,6 +84,10 @@ https://quuxplusone.github.io/blog/2020/12/21/using-directive/
 7.14 — Unnamed and inline namespaces
 https://www.learncpp.com/cpp-tutorial/unnamed-and-inline-namespaces/
 
+DCL59-CPP. Do not define an unnamed namespace in a header file
+https://wiki.sei.cmu.edu/confluence/display/cplusplus/DCL59-CPP.+Do+not+define+an+unnamed+namespace+in+a+header+file
+
+
 
 
 
