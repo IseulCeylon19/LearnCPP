@@ -87,6 +87,9 @@ https://www.learncpp.com/cpp-tutorial/unnamed-and-inline-namespaces/
 DCL59-CPP. Do not define an unnamed namespace in a header file
 https://wiki.sei.cmu.edu/confluence/display/cplusplus/DCL59-CPP.+Do+not+define+an+unnamed+namespace+in+a+header+file
 
+8.4 — Constexpr if statements
+https://www.learncpp.com/cpp-tutorial/constexpr-if-statements/
+
 
 
 
