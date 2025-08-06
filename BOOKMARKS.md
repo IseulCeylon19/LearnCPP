@@ -90,7 +90,8 @@ https://wiki.sei.cmu.edu/confluence/display/cplusplus/DCL59-CPP.+Do+not+define+a
 8.4 — Constexpr if statements
 https://www.learncpp.com/cpp-tutorial/constexpr-if-statements/
 
-
+8.6 — Switch fallthrough and scoping
+https://www.learncpp.com/cpp-tutorial/switch-fallthrough-and-scoping/
 
 
 
