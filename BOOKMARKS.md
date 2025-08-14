@@ -96,8 +96,8 @@ https://www.learncpp.com/cpp-tutorial/switch-fallthrough-and-scoping/
 8.7 — Goto statements
 https://www.learncpp.com/cpp-tutorial/goto-statements
 
-
-
+A case against GO TO statement
+https://www.cs.utexas.edu/~EWD/ewd02xx/EWD215.PDF
 
 
 
