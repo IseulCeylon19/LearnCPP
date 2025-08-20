@@ -108,6 +108,8 @@ https://www.learncpp.com/cpp-tutorial/introduction-to-random-number-generation/
 8.14 — Generating random numbers using Mersenne Twister
 https://www.learncpp.com/cpp-tutorial/generating-random-numbers-using-mersenne-twister/
 
+8.15 — Global random numbers (Random.h)
+https://www.learncpp.com/cpp-tutorial/global-random-numbers-random-h
 
 
 
