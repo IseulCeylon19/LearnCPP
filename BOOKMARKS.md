@@ -111,3 +111,9 @@ https://www.learncpp.com/cpp-tutorial/generating-random-numbers-using-mersenne-t
 8.15 — Global random numbers (Random.h)
 https://www.learncpp.com/cpp-tutorial/global-random-numbers-random-h
 
+9.2 — Code coverage
+https://www.learncpp.com/cpp-tutorial/code-coverage
+
+
+
+
