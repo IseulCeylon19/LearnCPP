@@ -117,3 +117,6 @@ https://www.learncpp.com/cpp-tutorial/code-coverage
 9.3 — Common semantic errors in C++
 https://www.learncpp.com/cpp-tutorial/common-semantic-errors-in-c
 
+9.5 — std::cin and handling invalid input
+https://www.learncpp.com/cpp-tutorial/stdcin-and-handling-invalid-input/
+
