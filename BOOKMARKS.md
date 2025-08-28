@@ -120,3 +120,7 @@ https://www.learncpp.com/cpp-tutorial/common-semantic-errors-in-c
 9.5 — std::cin and handling invalid input
 https://www.learncpp.com/cpp-tutorial/stdcin-and-handling-invalid-input/
 
+9.6 — Assert and static_assert
+https://www.learncpp.com/cpp-tutorial/assert-and-static_assert
+
+
