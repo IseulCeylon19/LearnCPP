@@ -123,4 +123,7 @@ https://www.learncpp.com/cpp-tutorial/stdcin-and-handling-invalid-input/
 9.6 — Assert and static_assert
 https://www.learncpp.com/cpp-tutorial/assert-and-static_assert
 
+9.x — Chapter 9 summary and quiz
+https://www.learncpp.com/cpp-tutorial/chapter-9-summary-and-quiz/
+
 
