@@ -126,4 +126,8 @@ https://www.learncpp.com/cpp-tutorial/assert-and-static_assert
 9.x — Chapter 9 summary and quiz
 https://www.learncpp.com/cpp-tutorial/chapter-9-summary-and-quiz/
 
+10.1 — Implicit type conversion
+https://www.learncpp.com/cpp-tutorial/implicit-type-conversion/
+
+
 
