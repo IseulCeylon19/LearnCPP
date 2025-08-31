@@ -129,5 +129,8 @@ https://www.learncpp.com/cpp-tutorial/chapter-9-summary-and-quiz/
 10.1 — Implicit type conversion
 https://www.learncpp.com/cpp-tutorial/implicit-type-conversion/
 
+10.2 — Floating-point and integral promotion
+https://www.learncpp.com/cpp-tutorial/floating-point-and-integral-promotion
+
 
 
