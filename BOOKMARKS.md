@@ -136,12 +136,3 @@ Integral_promotion
 https://en.cppreference.com/w/cpp/language/implicit_conversion.html#Integral_promotion
 
 
-
-
-
-
-
-
-
-
-
