@@ -135,4 +135,7 @@ https://www.learncpp.com/cpp-tutorial/floating-point-and-integral-promotion
 Integral_promotion
 https://en.cppreference.com/w/cpp/language/implicit_conversion.html#Integral_promotion
 
+10.3 — Numeric conversions
+https://www.learncpp.com/cpp-tutorial/numeric-conversions/
+
 
