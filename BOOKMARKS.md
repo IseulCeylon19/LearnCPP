@@ -138,4 +138,18 @@ https://en.cppreference.com/w/cpp/language/implicit_conversion.html#Integral_pro
 10.3 — Numeric conversions
 https://www.learncpp.com/cpp-tutorial/numeric-conversions/
 
+10.4 — Narrowing conversions, list initialization, and constexpr initializers
+https://www.learncpp.com/cpp-tutorial/narrowing-conversions-list-initialization-and-constexpr-initializers/
+
+
+
+
+
+
+
+
+
+
+
+
 
