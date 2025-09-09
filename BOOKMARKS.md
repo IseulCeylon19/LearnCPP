@@ -141,6 +141,9 @@ https://www.learncpp.com/cpp-tutorial/numeric-conversions/
 10.4 — Narrowing conversions, list initialization, and constexpr initializers
 https://www.learncpp.com/cpp-tutorial/narrowing-conversions-list-initialization-and-constexpr-initializers/
 
+10.5 — Arithmetic conversions
+https://www.learncpp.com/cpp-tutorial/arithmetic-conversions/
+
 
 
 
