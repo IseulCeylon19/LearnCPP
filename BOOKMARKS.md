@@ -144,6 +144,11 @@ https://www.learncpp.com/cpp-tutorial/narrowing-conversions-list-initialization-
 10.5 — Arithmetic conversions
 https://www.learncpp.com/cpp-tutorial/arithmetic-conversions/
 
+Usual arithmetic conversions
+https://en.cppreference.com/w/cpp/language/usual_arithmetic_conversions.html
+
+
+
 
 
 
