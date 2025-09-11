@@ -147,7 +147,8 @@ https://www.learncpp.com/cpp-tutorial/arithmetic-conversions/
 Usual arithmetic conversions
 https://en.cppreference.com/w/cpp/language/usual_arithmetic_conversions.html
 
-
+Lvalues and Rvalues (C++)
+https://learn.microsoft.com/en-us/cpp/cpp/lvalues-and-rvalues-visual-cpp?view=msvc-170
 
 
 
