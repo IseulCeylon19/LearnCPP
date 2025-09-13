@@ -150,6 +150,8 @@ https://en.cppreference.com/w/cpp/language/usual_arithmetic_conversions.html
 Lvalues and Rvalues (C++)
 https://learn.microsoft.com/en-us/cpp/cpp/lvalues-and-rvalues-visual-cpp?view=msvc-170
 
+Value categories
+https://en.cppreference.com/w/cpp/language/value_category.html
 
 
 
