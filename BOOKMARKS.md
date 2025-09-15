@@ -156,3 +156,6 @@ https://en.cppreference.com/w/cpp/language/value_category.html
 10.6 — Explicit type conversion (casting) and static_cast
 https://www.learncpp.com/cpp-tutorial/explicit-type-conversion-casting-and-static-cast/
 
+10.7 — Typedefs and type aliases
+https://www.learncpp.com/cpp-tutorial/typedefs-and-type-aliases/
+
