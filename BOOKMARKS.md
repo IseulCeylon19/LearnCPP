@@ -159,3 +159,5 @@ https://www.learncpp.com/cpp-tutorial/explicit-type-conversion-casting-and-stati
 10.7 — Typedefs and type aliases
 https://www.learncpp.com/cpp-tutorial/typedefs-and-type-aliases/
 
+10.8 — Type deduction for objects using the auto keyword
+https://www.learncpp.com/cpp-tutorial/type-deduction-for-objects-using-the-auto-keyword/
