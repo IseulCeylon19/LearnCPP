@@ -161,3 +161,7 @@ https://www.learncpp.com/cpp-tutorial/typedefs-and-type-aliases/
 
 10.8 — Type deduction for objects using the auto keyword
 https://www.learncpp.com/cpp-tutorial/type-deduction-for-objects-using-the-auto-keyword/
+
+10.9 — Type deduction for functions
+https://www.learncpp.com/cpp-tutorial/type-deduction-for-functions/
+
