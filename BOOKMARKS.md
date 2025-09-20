@@ -170,3 +170,5 @@ https://www.learncpp.com/cpp-tutorial/function-overload-differentiation/
 
 11.3 — Function overload resolution and ambiguous matches
 https://www.learncpp.com/cpp-tutorial/function-overload-resolution-and-ambiguous-matches/
+
+11.4 — Deleting functions
