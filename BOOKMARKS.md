@@ -176,3 +176,9 @@ https://www.learncpp.com/cpp-tutorial/deleting-functions/
 
 11.5 — Default arguments
 https://www.learncpp.com/cpp-tutorial/default-arguments/
+
+11.6 — Function templates
+https://www.learncpp.com/cpp-tutorial/function-templates/
+
+
+
