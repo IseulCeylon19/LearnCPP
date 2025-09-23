@@ -180,5 +180,8 @@ https://www.learncpp.com/cpp-tutorial/default-arguments/
 11.6 — Function templates
 https://www.learncpp.com/cpp-tutorial/function-templates/
 
+std::max
+https://en.cppreference.com/w/cpp/algorithm/max.html
+
 
 
