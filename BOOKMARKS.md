@@ -186,4 +186,7 @@ https://en.cppreference.com/w/cpp/algorithm/max.html
 11.7 — Function template instantiation
 https://www.learncpp.com/cpp-tutorial/function-template-instantiation/
 
+(Life) Advice From The Creator of C++
+https://www.youtube.com/watch?v=-QxI-RP6-HM
+
 
