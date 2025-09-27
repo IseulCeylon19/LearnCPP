@@ -189,4 +189,9 @@ https://www.learncpp.com/cpp-tutorial/function-template-instantiation/
 (Life) Advice From The Creator of C++
 https://www.youtube.com/watch?v=-QxI-RP6-HM
 
+11.9 — Non-type template parameters
+https://www.learncpp.com/cpp-tutorial/non-type-template-parameters/
+
+
+
 
