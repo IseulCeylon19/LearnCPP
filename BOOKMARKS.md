@@ -192,6 +192,9 @@ https://www.youtube.com/watch?v=-QxI-RP6-HM
 11.9 — Non-type template parameters
 https://www.learncpp.com/cpp-tutorial/non-type-template-parameters/
 
+11.10 — Using function templates in multiple files
+https://www.learncpp.com/cpp-tutorial/using-function-templates-in-multiple-files/
+
 
 
 
