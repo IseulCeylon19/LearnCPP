@@ -195,6 +195,9 @@ https://www.learncpp.com/cpp-tutorial/non-type-template-parameters/
 11.10 — Using function templates in multiple files
 https://www.learncpp.com/cpp-tutorial/using-function-templates-in-multiple-files/
 
+F.1 — Constexpr functions
+https://www.learncpp.com/cpp-tutorial/constexpr-functions/
+
 
 
 
