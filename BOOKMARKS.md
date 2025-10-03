@@ -198,6 +198,12 @@ https://www.learncpp.com/cpp-tutorial/using-function-templates-in-multiple-files
 F.1 — Constexpr functions
 https://www.learncpp.com/cpp-tutorial/constexpr-functions/
 
+F.2 — Constexpr functions (part 2)
+https://www.learncpp.com/cpp-tutorial/constexpr-functions-part-2/
+
+
+
+
 
 
 
