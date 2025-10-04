@@ -201,6 +201,9 @@ https://www.learncpp.com/cpp-tutorial/constexpr-functions/
 F.2 — Constexpr functions (part 2)
 https://www.learncpp.com/cpp-tutorial/constexpr-functions-part-2/
 
+F.3 — Constexpr functions (part 3) and consteval
+https://www.learncpp.com/cpp-tutorial/constexpr-functions-part-3-and-consteval/
+
 
 
 
