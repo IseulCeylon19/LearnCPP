@@ -206,6 +206,9 @@ https://www.learncpp.com/cpp-tutorial/constexpr-functions-part-3-and-consteval/
 
 Google Search for "variadic preprocessor macro"
 
+F.4 — Constexpr functions (part 4)
+https://www.learncpp.com/cpp-tutorial/constexpr-functions-part-4/
+
 
 
 
