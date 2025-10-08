@@ -212,9 +212,3 @@ https://www.learncpp.com/cpp-tutorial/constexpr-functions-part-4/
 12.1 — Introduction to compound data types
 https://www.learncpp.com/cpp-tutorial/introduction-to-compound-data-types/
 
-
-
-
-
-
-
