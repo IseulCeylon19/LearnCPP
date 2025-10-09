@@ -212,3 +212,6 @@ https://www.learncpp.com/cpp-tutorial/constexpr-functions-part-4/
 12.1 — Introduction to compound data types
 https://www.learncpp.com/cpp-tutorial/introduction-to-compound-data-types/
 
+12.2 — Value categories (lvalues and rvalues)
+https://www.learncpp.com/cpp-tutorial/value-categories-lvalues-and-rvalues/
+
