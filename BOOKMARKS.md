@@ -221,6 +221,10 @@ https://www.learncpp.com/cpp-tutorial/lvalue-references/
 12.4 — Lvalue references to const
 https://www.learncpp.com/cpp-tutorial/lvalue-references-to-const/
 
+12.6 — Pass by const lvalue reference
+https://www.learncpp.com/cpp-tutorial/pass-by-const-lvalue-reference/
 
+12.7 — Introduction to pointers
+https://www.learncpp.com/cpp-tutorial/introduction-to-pointers/
 
 
