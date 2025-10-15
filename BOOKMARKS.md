@@ -227,4 +227,7 @@ https://www.learncpp.com/cpp-tutorial/pass-by-const-lvalue-reference/
 12.7 — Introduction to pointers
 https://www.learncpp.com/cpp-tutorial/introduction-to-pointers/
 
+12.8 — Null pointers
+https://www.learncpp.com/cpp-tutorial/null-pointers/
+
 
