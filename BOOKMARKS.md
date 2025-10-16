@@ -230,4 +230,14 @@ https://www.learncpp.com/cpp-tutorial/introduction-to-pointers/
 12.8 — Null pointers
 https://www.learncpp.com/cpp-tutorial/null-pointers/
 
+12.9 — Pointers and const
+https://www.learncpp.com/cpp-tutorial/pointers-and-const/
+
+
+
+
+
+
+
+
 
