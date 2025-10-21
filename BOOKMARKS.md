@@ -242,6 +242,9 @@ https://www.learncpp.com/cpp-tutorial/in-and-out-parameters/
 12.14 — Type deduction with pointers, references, and const
 https://www.learncpp.com/cpp-tutorial/type-deduction-with-pointers-references-and-const/
 
+12.15 — std::optional
+https://www.learncpp.com/cpp-tutorial/stdoptional/
+
 
 
 
