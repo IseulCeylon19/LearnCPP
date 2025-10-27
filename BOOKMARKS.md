@@ -245,5 +245,3 @@ https://www.learncpp.com/cpp-tutorial/type-deduction-with-pointers-references-an
 12.15 — std::optional
 https://www.learncpp.com/cpp-tutorial/stdoptional/
 
-
-
