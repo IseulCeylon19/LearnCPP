@@ -251,6 +251,9 @@ https://www.learncpp.com/cpp-tutorial/chapter-12-summary-and-quiz/
 13.1 — Introduction to program-defined (user-defined) types
 https://www.learncpp.com/cpp-tutorial/introduction-to-program-defined-user-defined-types/
 
+13.2 — Unscoped enumerations
+https://www.learncpp.com/cpp-tutorial/unscoped-enumerations/
+
 
 
 
