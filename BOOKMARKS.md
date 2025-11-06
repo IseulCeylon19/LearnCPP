@@ -254,6 +254,9 @@ https://www.learncpp.com/cpp-tutorial/introduction-to-program-defined-user-defin
 13.2 — Unscoped enumerations
 https://www.learncpp.com/cpp-tutorial/unscoped-enumerations/
 
+13.3 — Unscoped enumerator integral conversions
+https://www.learncpp.com/cpp-tutorial/unscoped-enumerator-integral-conversions/
+
 
 
 
