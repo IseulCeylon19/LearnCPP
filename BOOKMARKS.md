@@ -257,6 +257,9 @@ https://www.learncpp.com/cpp-tutorial/unscoped-enumerations/
 13.3 — Unscoped enumerator integral conversions
 https://www.learncpp.com/cpp-tutorial/unscoped-enumerator-integral-conversions/
 
+13.4 — Converting an enumeration to and from a string
+https://www.learncpp.com/cpp-tutorial/converting-an-enumeration-to-and-from-a-string/
+
 
 
 
