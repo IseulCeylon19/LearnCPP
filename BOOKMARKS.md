@@ -263,6 +263,10 @@ https://www.learncpp.com/cpp-tutorial/converting-an-enumeration-to-and-from-a-st
 13.5 — Introduction to overloading the I/O operators
 https://www.learncpp.com/cpp-tutorial/introduction-to-overloading-the-i-o-operators/
 
+13.6 — Scoped enumerations (enum classes)
+https://www.learncpp.com/cpp-tutorial/scoped-enumerations-enum-classes/
+
+
 
 
 
