@@ -266,6 +266,8 @@ https://www.learncpp.com/cpp-tutorial/introduction-to-overloading-the-i-o-operat
 13.6 — Scoped enumerations (enum classes)
 https://www.learncpp.com/cpp-tutorial/scoped-enumerations-enum-classes/
 
+13.8 — Struct aggregate initialization
+https://www.learncpp.com/cpp-tutorial/struct-aggregate-initialization/
 
 
 
