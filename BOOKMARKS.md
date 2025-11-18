@@ -272,6 +272,8 @@ https://www.learncpp.com/cpp-tutorial/struct-aggregate-initialization/
 13.9 — Default member initialization
 https://www.learncpp.com/cpp-tutorial/default-member-initialization/
 
+13.10 — Passing and returning structs
+https://www.learncpp.com/cpp-tutorial/passing-and-returning-structs/
 
 
 
