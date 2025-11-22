@@ -275,3 +275,6 @@ https://www.learncpp.com/cpp-tutorial/default-member-initialization/
 13.10 — Passing and returning structs
 https://www.learncpp.com/cpp-tutorial/passing-and-returning-structs/
 
+13.11 — Struct miscellany
+https://www.learncpp.com/cpp-tutorial/struct-miscellany/
+
