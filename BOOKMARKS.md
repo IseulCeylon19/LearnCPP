@@ -278,3 +278,7 @@ https://www.learncpp.com/cpp-tutorial/passing-and-returning-structs/
 13.11 — Struct miscellany
 https://www.learncpp.com/cpp-tutorial/struct-miscellany/
 
+13.12 — Member selection with pointers and references
+https://www.learncpp.com/cpp-tutorial/member-selection-with-pointers-and-references/
+
+
