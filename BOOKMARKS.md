@@ -281,6 +281,16 @@ https://www.learncpp.com/cpp-tutorial/struct-miscellany/
 13.12 — Member selection with pointers and references
 https://www.learncpp.com/cpp-tutorial/member-selection-with-pointers-and-references/
 
+13.13 — Class templates
+https://www.learncpp.com/cpp-tutorial/class-templates/
+
+
+
+
+
+
+
+
 
 
 
